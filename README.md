@@ -1,5 +1,8 @@
 # Ohjelmistosuunnittelu-TTOS0100
 
+[Repon wiki](https://github.com/olli-k9326/ohjelmistosuunnittelu-TTOS0100/wiki)
+
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Samuel_L._Jackson_SDCC_2014_%28cropped%29.jpg/260px-Samuel_L._Jackson_SDCC_2014_%28cropped%29.jpg)
 
 | Leffa | Julkaisuvuosi |
