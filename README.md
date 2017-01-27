@@ -3,7 +3,7 @@
 [Repon wiki](https://github.com/olli-k9326/ohjelmistosuunnittelu-TTOS0100/wiki)
 
 
-![](https://www.google.fi/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjN0sOM3OHRAhWEDCwKHSdEAR0QjRwIBw&url=https%3A%2F%2Fwww.jamk.fi%2Ffi%2Ftutkimus-ja-kehitys%2Fprojektit%2Fohoi%2Fetusivu%2F&psig=AFQjCNEKuRl_b-2d4NpbtuMf_85PzVlghQ&ust=1485585689591003)
+![](http://blogit.jamk.fi/wp-content/themes/jamk/img/jamk-light.png)
 
 | Leffa | Julkaisuvuosi |
 |:----- |--------------:|
