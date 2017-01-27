@@ -17,6 +17,6 @@ Normally, both your asses would be dead as fucking fried chicken, but you happen
 
 ### Alaotsikko
 
-[Samuel L Jacksonin wiki-sivut](https://fi.wikipedia.org/wiki/Samuel_L._Jackson)
+[Karon sivut](http://student.labranet.jamk.fi/~sahka/)
 
 :)
