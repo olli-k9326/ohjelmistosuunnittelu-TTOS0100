@@ -3,7 +3,7 @@
 
 
 
-<img src="http://blogit.jamk.fi/wp-content/themes/jamk/img/jamk-light.png" width="500"/>
+<img src="http://blogit.jamk.fi/wp-content/themes/jamk/img/jamk-light.png" width="200"/>
 
 
 ### Vaatimusmäärittely
